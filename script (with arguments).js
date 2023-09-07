@@ -12,4 +12,4 @@ function findMax() { // the function finding the maximum number
 	return max; // the function returns the maximum value max found
 }
 
-document.write(`Найбільше число: ${findMax(2, 18, -2, 0, 21, 3)}`); // result is displayed on the page
+document.write(`The max number: ${findMax(2, 18, -2, 0, 21, 3)}`); // result is displayed on the page
