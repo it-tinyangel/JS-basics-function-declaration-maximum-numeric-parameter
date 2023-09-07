@@ -2,6 +2,6 @@
 
 # Return the maximum numeric parameter
 
-This code represents the findMax() function, which is designed to find the maximum number among the arguments passed to it.
+This code represents the findMax() function, which is designed to find the maximum number among the arguments passed to it via parameters.
 
 Using the function declaration, without function Math.max().
