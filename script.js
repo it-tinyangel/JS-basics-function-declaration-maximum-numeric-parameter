@@ -10,7 +10,7 @@ function findMax(...num) { // to pass any number of numbers to the function
 		}
 	}
 
-	document.write(`Найбільше число: ${max}`); // outputing the result on the page  containing max number
+	document.write(`The largest number: ${max}`); // result is displayed on the page
 }
 
 findMax(2, 16, 15, 8, 25); // calling findMax function
